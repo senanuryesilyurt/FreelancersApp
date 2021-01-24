@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FreelancersApp</string>
+    <string name="Email">Email</string>
+    <string name="Parola">Parola</string>
+    <string name="cikisyap">Çıkış Yap</string>
+    <string name="kullaniciSil">Kullanıcıyı Sil</string>
+    <string name="welcome">welcome</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="signup">signup</string>
+    <string name="change_txt">change</string>
+    <string name="close_txt">close</string>
+</resources>

@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "710110653754",
+    "project_id": "freelancersapplication-c868f",
+    "storage_bucket": "freelancersapplication-c868f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710110653754:android:c7cb548f60656c461a7403",
+        "android_client_info": {
+          "package_name": "com.example.freelancersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710110653754-6mcgqgrtn1rb2gq96qd6aou6ul5rfbd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEDuzBG4yOL_QUtcFjeBvMoftr-IK5wGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710110653754-6mcgqgrtn1rb2gq96qd6aou6ul5rfbd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710110653754:android:6c3ba593bbef1e7e1a7403",
+        "android_client_info": {
+          "package_name": "com.freelancersapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710110653754-6r62pg8dn4jv6iq57frjcaqo80ht32cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelancersapplication",
+            "certificate_hash": "f00fc323b67f82fc358df4be146d5ae6e45a1f48"
+          }
+        },
+        {
+          "client_id": "710110653754-6mcgqgrtn1rb2gq96qd6aou6ul5rfbd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEDuzBG4yOL_QUtcFjeBvMoftr-IK5wGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710110653754-6mcgqgrtn1rb2gq96qd6aou6ul5rfbd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
